@@ -3,12 +3,12 @@
 
 Debut maFonction
 
-  Variables
-    lire <- nbrUtilisateur
-    Nbr = 0
+  &nbsp;&nbsp;Variables  
+    &nbsp;&nbsp;&nbsp;&nbsp;lire <- nbrUtilisateur  
+    &nbsp;&nbsp;&nbsp;&nbsp;Nbr = 0  
     
-  Tant que Nbr < nbrUtilisateur
-    Afficher "Bienvenue à la wild"
+  &nbsp;&nbsp;Tant que Nbr < nbrUtilisateur  
+      &nbsp;&nbsp;&nbsp;&nbsp;Afficher "Bienvenue à la wild"  
  
 Fin
 
